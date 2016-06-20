@@ -1,8 +1,10 @@
-# Top horizontal menu
+# Version modifiée de Top horizontal menu
 
 ## About
 
 Adds a new horizontal menu to the top of your e-commerce website.
+Ajoute la gestion en drag & drop de l'ordre du menu
+N'ajoute plus les sous-catégories
 
 ## Contributing
 
